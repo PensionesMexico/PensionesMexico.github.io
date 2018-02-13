@@ -1,11 +1,11 @@
 - title: Pagina Principal
-  url: index.md
+  url: index.html
 
 - title: Calculo
-  url: Calculo.md
+  url: Calculo.html
 
 - title: Ley73
-  url: Ley73vsLey97.md
+  url: Ley73vsLey97.html
 
 - title: Contacto
-  url: contacto.md
+  url: contacto.html
