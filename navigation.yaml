@@ -1,0 +1,14 @@
+navigation_title: Lista de Paginas
+navigation:
+
+- title: Pagina Principal
+  url: index.md
+
+- title: Calculo
+  url: Calculo.md
+
+- title: Ley73
+  url: Ley73vsLey97.md
+
+- title: Contacto
+  url: contacto.md
