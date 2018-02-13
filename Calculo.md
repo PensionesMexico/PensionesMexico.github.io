@@ -12,23 +12,26 @@ Cuando hayas cubierto los requisitos y te sea autorizada la pensión, es el Gobi
 
 - Asignaciones familiares: las asignaciones familiares también aumentan el importe de la pensión.
 
-## ¿De qué depende el monto de mi pensión?
+### ¿De qué depende el monto de mi pensión?
 
 El salario a considerar será el salario promedio de los últimos cinco años.
 La variable más importante en el cálculo de pensión del IMSS son las semanas cotizadas reconocidas, es decir, no basta con cumplir el requisito de semanas, entre mayor sea el número de semanas excedentes el monto adicional de pensión será mucho mejor.
 Se puede llegar a creer que el porcentaje por edad se aplica directamente al salario promedio de los últimos cinco años y ese monto será la pensión resultante, sin embargo, el porcentaje por edad se aplica al cálculo resultante y a su vez este cálculo depende en gran medida del número de semanas cotizadas reconocidas que se tengan.
 El monto de pensión se irá actualizando cada año de acuerdo al incremento al salario mínimo vigente.
 
-## Beneficios en la Ley 73
+### Beneficios en la Ley 73
 
-Una vez siendo pensionado, el pensionado así como su beneficiario tendrán derecho a gozar de los servicios médicos del IMSS.
+- Una vez siendo pensionado, el pensionado así como su beneficiario tendrán derecho a gozar de los servicios médicos del IMSS.
 En el mes de noviembre se les pagará aguinaldo.
-Y en caso de ser necesario podrán acceder a préstamos sobre la pensión del IMSS.
 
-Además, tienes derecho a disponer en una sola exhibición de los recursos de retiro 97, retiro 92 y vivienda 92. 
+- Y en caso de ser necesario podrán acceder a préstamos sobre la pensión del IMSS.
+
+- En caso de fallecer el beneficiario podrá pasar su pensión a su conyuge. 
+
+- Además, tienes derecho a disponer en una sola exhibición de los recursos de retiro 97, retiro 92 y vivienda 92.  
  
 Y por último, los recursos correspondientes al nuevo sistema de pensiones, que están en tu afore, se remitirán al Gobierno Federal para el sea el IMSS el que pague tu pensión.
-Ley IMSS 73 vs 97
+
 
 ## ¿Cómo se calcula tu pensión en Ley 97?
 
@@ -59,7 +62,7 @@ Con el fondo acumulado en la AFORE se podrá elegir entre las siguientes dos opc
 Renta Vitalicia (se contratará con una aseguradora y ella determinará la pensión mensual)
 Retiro Programado (Se contratará directamente en la AFORE y se calcula de acuerdo a la esperanza de vida promedio de los jubilados del IMSS)
 
-¿Qué pasa si mis recursos ahorrados no son suficientes?
+### ¿Qué pasa si mis recursos ahorrados no son suficientes?
 
 Existe la Pensión Mínima Garantizada, esta pensión se otorga cuando se tiene derecho a una pensión, pero no se tiene recursos suficientes en la cuenta de AFORE para contratar un retiro programado o renta vitalicia, en este caso el IMSS otorgará una Pensión Mínima Garantizada (PMG), la cual equivale a un salario mínimo vigente de manera mensual.
 
