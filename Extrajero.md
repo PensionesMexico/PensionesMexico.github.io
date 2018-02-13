@@ -1,6 +1,6 @@
-## Viviendo en USA
+## Viviendo en el extranjero
 
-Muchos trabajadores inmigrantes se fueron a Estados Unidos buscando el sueño americano. Esto los dejó sin pensión o beneficios a ambos lados de la frontera puesto que en USA no califican para pensiones por su condición de limbo y en México dejaron todo interrumpido y ya no cotizan al IMSS o ISSSTE. 
+Muchos trabajadores inmigrantes se fueron a Estados Unidos u otros países buscando el sueño americano. Esto los dejó sin pensión o beneficios a ambos lados de la frontera puesto que en USA no califican para pensiones por su condición de limbo y en México dejaron todo interrumpido y ya no cotizan al IMSS o ISSSTE. 
 
 Muchos de ellos viven buscando el “jale” para sobrevivir y no tienen esperanzas de seguridad social, y no saben cómo recuperar sus derechos de pensión en México o conseguirlos en USA.
 
