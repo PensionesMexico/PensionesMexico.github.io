@@ -28,7 +28,7 @@ Las personas que empezaron a cotizar antes de la entrada en vigor de la Ley del 
 
 ## Compare y decida 
 
-Las personas que pertenecen a la Ley 73, se consideran bajo la ley transitoria y pueden cambiarse a la ley 97, las personas que están bajo la ley 97 **NO** puedesn cambiarse a la ley 73.
+Las personas que pertenecen a la Ley 73, se consideran bajo la ley transitoria y pueden cambiarse a la ley 97, las personas que están bajo la ley 97 **NO** pueden cambiarse a la ley 73.
 
 ### Ley del IMSS de 1973                               	
 
