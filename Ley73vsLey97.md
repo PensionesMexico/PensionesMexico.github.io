@@ -25,3 +25,29 @@ En este caso, en la Ley del IMSS de 1997 el pago de la pensión será a través 
 ## ¿Qué me conviene más estar bajo la Ley de 1973 o la Ley de 1997?
 
 Las personas que empezaron a cotizar antes de la entrada en vigor de la Ley del 1997, podrán optar por pensionarse de acuerdo a la Ley del IMSS del 1973 o la Ley del IMSS de 1997. Mientras que las personas que empezaron a cotizar después de esas fecha se pensionarán por la Ley del IMSS 1997. 
+
+## Compara y decide 
+
+Las personas que pertenecen a la Ley 73, se consideran bajo la ley transitoria y pueden cambiarse a la ley 97, las personas que están bajo la ley 97 **NO** puedesn cambiarse a la ley 73.
+
+### Ley del IMSS de 1973                               	
+
+- Semanas cotizadas requeridas: 500
+- Cálculo de la Pensión:	Salario Promedio últimos 5 años 
+- Aumento por asignaciones familiare: No
+- Pago adicional de aguinaldo equivalente a un mes de pensión:	Si
+- Duración de la Pensión:	Vitalicia	
+- Pensión de viudez:	Si
+- Actualización de la Pensión:	Anual conforme a la inflación	
+- Gobierno Federal paga la pensión:	Si
+
+### Ley del IMSS de 1997
+
+- Semanas cotizadas requeridas: 1250
+- Cálculo de la Pensión: Monto ahorrado en la cuenta individual (Afore) más los rendimientos obtenidos
+- Aumento por asignaciones familiares:	Si
+- Pago adicional de aguinaldo equivalente a un mes de pensión:	No
+- Duración de la Pensión:	Dependiendo del cálculo inicial de esperanza de vida del asegurado
+- Pensión de viudez:	No
+- Actualización de la Pensión:	No se actualiza
+- Gobierno Federal paga la pensión:	No, se paga con la cuenta individual del beneficiario, una vez que se agote la cuenta o si no tiene suficientes recursos, recibirá la pensión mínima garantizada.
