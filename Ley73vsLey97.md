@@ -26,7 +26,7 @@ En este caso, en la Ley del IMSS de 1997 el pago de la pensión será a través 
 
 Las personas que empezaron a cotizar antes de la entrada en vigor de la Ley del 1997, podrán optar por pensionarse de acuerdo a la Ley del IMSS del 1973 o la Ley del IMSS de 1997. Mientras que las personas que empezaron a cotizar después de esas fecha se pensionarán por la Ley del IMSS 1997. 
 
-## Compara y decide 
+## Compare y decida 
 
 Las personas que pertenecen a la Ley 73, se consideran bajo la ley transitoria y pueden cambiarse a la ley 97, las personas que están bajo la ley 97 **NO** puedesn cambiarse a la ley 73.
 
