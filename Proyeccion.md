@@ -10,6 +10,7 @@ Para hacer una proyección de pensión necesitas saber el número exacto de sema
 Pide tu reporte de semanas cotizadas aqui: http://hlda.imss.gob.mx/hlda/Acceso.do#no-back-button
 
 
+
 ## Calculo de pensión Gratuito
 
 Para recibir un calculo de pensión preliminar por favor completa los siguientes datos:
