@@ -14,3 +14,13 @@ Al inscribirse en Modalidad 40 usted puede decidir con cuantos salarios mínimos
 
 
 Se recomienda darse de alta en Modalidad 40 hasta máximo 5 años antes de pensionarse y no antes, pues no importa si pagaste un salario mínimo toda tu vida laboral mientras que en los últimos 5 años aumentes el salario promedio con la ayuda de esta modalidad. 
+
+
+
+Contacto 
+
+5537499689 WhatsApp
+
+Norma Jiménez Kaiser
+
+normajkaiser@gmail.com
