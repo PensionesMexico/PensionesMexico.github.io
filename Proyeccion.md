@@ -10,6 +10,16 @@ Para hacer una proyección de pensión necesitas saber el número exacto de sema
 Pide tu reporte de semanas cotizadas aqui: http://hlda.imss.gob.mx/hlda/Acceso.do#no-back-button
 
 
+# Contacto 
+
+5537499689 WhatsApp
+
+Norma Jiménez Kaiser
+
+normajkaiser@gmail.com
+
+
+
 
 ## Calculo de pensión Gratuito
 
