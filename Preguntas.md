@@ -41,3 +41,12 @@ No, el máximo que podrías obtener es 100% por edad, 100% por salario topado y 
 ### ¿Puede mi hijo hacer mis tramites de pensión?
 
 Si, tu hijo u otra persona podrá hacer tus tramites de pensión siempre y cuando le otorgues un poder notarial para hacerlo, este se puede pedir ante notario o en un consulado mexicano si vives en el extranjero. 
+
+
+Contacto 
+
+5537499689 WhatsApp
+
+Norma Jiménez Kaiser
+
+normajkaiser@gmail.com
