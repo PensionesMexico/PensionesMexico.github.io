@@ -28,6 +28,15 @@ El pago es desde un salario mínimo hasta 25 salarios, y se tomará en cuenta la
 •	El pago de inscripción se hace una sola vez.
 
 
+Contacto 
+
+5537499689 WhatsApp
+
+Norma Jiménez Kaiser
+
+normajkaiser@gmail.com
+
+
 ¿Olvidaste tu Número de IMSS? Consíguelo aquí: www.imss.gob.mx/faq/no-recuerdo-mi-nss
 
 Reporte de Semanas Cotizadas: http://hlda.imss.gob.mx/hlda/Acceso.do#no-back-button
