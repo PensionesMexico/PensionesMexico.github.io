@@ -51,3 +51,9 @@ Las personas que pertenecen a la Ley 73, se consideran bajo la ley transitoria y
 - Pensión de viudez:	No
 - Actualización de la Pensión:	No se actualiza
 - Gobierno Federal paga la pensión:	No, se paga con la cuenta individual del beneficiario, una vez que se agote la cuenta o si no tiene suficientes recursos, recibirá la pensión mínima garantizada.
+
+
+Contacto 
+5537499689 WhatsApp
+Norma Jiménez Kaiser
+normajkaiser@gmail.com
