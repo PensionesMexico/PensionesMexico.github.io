@@ -67,3 +67,8 @@ Retiro Programado (Se contratará directamente en la AFORE y se calcula de acuer
 Existe la Pensión Mínima Garantizada, esta pensión se otorga cuando se tiene derecho a una pensión, pero no se tiene recursos suficientes en la cuenta de AFORE para contratar un retiro programado o renta vitalicia, en este caso el IMSS otorgará una Pensión Mínima Garantizada (PMG), la cual equivale a un salario mínimo vigente de manera mensual.
 
 Es importante señalar que para todos aquellos que ya pertenecen a la nueva ley del IMSS o LEY 97 el monto de su pensión será directamente calculado con los fondos acumulados, por lo que es necesario contar con ahorro ya sea dentro de la misma AFORE o bien contratar otros mecanismos de ahorro para el retiro y de esta manera incrementar el monto a recibir de pensión.
+
+Contacto 
+5537499689 WhatsApp
+Norma Jiménez Kaiser
+normajkaiser@gmail.com
