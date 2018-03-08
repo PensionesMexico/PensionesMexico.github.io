@@ -42,6 +42,25 @@ No, el máximo que podrías obtener es 100% por edad, 100% por salario topado y 
 
 Si, tu hijo u otra persona podrá hacer tus tramites de pensión siempre y cuando le otorgues un poder notarial para hacerlo, este se puede pedir ante notario o en un consulado mexicano si vives en el extranjero. 
 
+### ¿Si soy trabajador por mi cuenta y sigo pagando mi seguro en modalidad 40 me puedo pensionar por el IMSS?
+
+Si se está trabajando por su cuenta o por el régimen de asimilación a salarios previsto en la Ley del Impuesto sobre la Renta y se cumplen los requisitos de (1) no tener más de 5 años de haber estado en una relación formal de trabajo y (2) aportar un salario igual o mayor al último registrado en la última relación formal de trabajo; Si es posible se pensione por el IMSS con una cuantiosa pensión.
+
+### ¿Puedo seguir cotizando para el IMSS e INFONAVIT de manera simultánea?
+
+Las aportaciones a la modalidad 40 del IMSS no hacen las aportaciones al INFONAVIT, únicamente, las primeras sirven para financiar el salario promedio, aumentar semanas cotizadas y aportar a la AFORE, no así al INFONAVIT.
+
+### ¿Cómo puedo pensionarme si perdí mi conservación de derechos?
+
+Necesariamente se tendrá que cotizar un año más, a través de una relación de trabajo para regenerarla. Contactame, nosotros te podemos dar de alta. Norma Jimenez 5537499689 en CDMX
+
+### ¿Si aporto 25 salarios mínimos al mes durante 5 años cuanto obtendré de pensión IMSS?
+
+Existe la posibilidad de acuerdo a la Ley del Seguro Social vigente que las personas obtengan una pensión mensual de $51,168.00 (Cincuenta y Un Mil Ciento Sesenta y Ocho Pesos 00/100), por lo que será necesario que sean asesoradas financieramente para poder llegar a esa meta o simplemente si quieren obtener una cuantiosa pensión menor a la aquí descrita.
+
+### ¿Se puede pagar cuotas IMSS y no pagar INFONAVIT?
+Si, a través de la modalidad 40 se pagan las cuotas al IMSS que únicamente financian el aumento del salario promedio y las semanas cotizadas.
+
 
 Contacto 
 
