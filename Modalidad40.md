@@ -4,6 +4,16 @@ La modalidad 40 fue creada para ayudar a los trabajadores que, por algún motivo
 
 Los derechos legales de esta modalidad le dan al trabajador la posibilidad de mejorar su pensión, ya que puede cotizar un mejor salario a los que tenía antes de la baja, esto siempre y cuando la persona no se encontrara cotizando con el salario topado del año vigente.
 
+## Los derechos que otorga la modalidad 40 a quien se afilie, son:
+
+   a) Seguro de Invalidez y Vida.
+   b) Seguro de Retiro, Cesantía en Edad Avanzada y Vejez.
+   c) Incremento de las semanas cotizadas.
+   b) Registro del salario base de cotización deseado.
+   c) Aportaciones a AFORE (del ramo de Retiro, del ramo Cesantía en Edad Avanzada y Vejez y del ramo de la Cuota Social)
+
+* La Modaldiad 40 no incluye seguro médico. 
+
 ### La modalidad 40 se mide en UMA’s. 
 
 El UMA esta cotizado más abajo que el salario mínimo, por dar un ejemplo si el salario mínimo esta a $88.00 la UMA está en $75.49.
@@ -17,11 +27,16 @@ Se recomienda darse de alta en Modalidad 40 hasta máximo 5 años antes de pensi
 
 ## ¿Cuanto tendrías que pagar si quieres aplicar la Modalidad 40?
 
-El pago mensual debe ser equivalente al 10.075% del salario con el que quieres seguir reportando semanas al IMSS.
-
 Es importante aclarar que solo puedes registrarte con un pago igual o superior a lo que ganabas con tu último salario registrado, por lo que no podías optar por registrar un pago menor. Y una vez que te diste de alta con un salario, ya no puedes modificarlo, así que debes hacer bien tus cuentas y estar seguro que podrás seguirlo pagando hasta llegar a los 65 años.
 
 La Ley del Seguro Social dice que para poder registrarse en esta modalidad, es necesario que esté dentro de los cinco años posteriores a su baja. Pasado ese tiempo, ya no podrá inscribirse y recuperaría sus semanas cotizadas sólo volviendo a trabajar con un patrón.
+
+El costo de la modalidad 40 está en función del 10.075% del SBC con el que se inscriba, por ello hay que tomar en cuenta lo siguiente:
+
+   Contratar con el tope de 25 salarios mínimos vigentes en el D.F.
+   Contratar con el SBC con el que se venia cotizando en el régimen obligatorio
+   Contratar haciendo el pago en retroactivo desde la fecha que se causó baja dentro de los 5 años de gracia que otorga el 
+   IMSS para ingresar a dicha modalidad.
 
 Además de que pagar esta cuota te da la oportunidad de posibilidad de seguir cotizando, pero NO de recibir los servicios de salud.
 
