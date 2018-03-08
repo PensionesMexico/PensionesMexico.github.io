@@ -15,7 +15,15 @@ Al inscribirse en Modalidad 40 usted puede decidir con cuantos salarios mínimos
 
 Se recomienda darse de alta en Modalidad 40 hasta máximo 5 años antes de pensionarse y no antes, pues no importa si pagaste un salario mínimo toda tu vida laboral mientras que en los últimos 5 años aumentes el salario promedio con la ayuda de esta modalidad. 
 
+## ¿Cuanto tendrías que pagar si quieres aplicar la Modalidad 40?
 
+El pago mensual debe ser equivalente al 10.075% del salario con el que quieres seguir reportando semanas al IMSS.
+
+Es importante aclarar que solo puedes registrarte con un pago igual o superior a lo que ganabas con tu último salario registrado, por lo que no podías optar por registrar un pago menor. Y una vez que te diste de alta con un salario, ya no puedes modificarlo, así que debes hacer bien tus cuentas y estar seguro que podrás seguirlo pagando hasta llegar a los 65 años.
+
+La Ley del Seguro Social dice que para poder registrarse en esta modalidad, es necesario que esté dentro de los cinco años posteriores a su baja. Pasado ese tiempo, ya no podrá inscribirse y recuperaría sus semanas cotizadas sólo volviendo a trabajar con un patrón.
+
+Además de que pagar esta cuota te da la oportunidad de posibilidad de seguir cotizando, pero NO de recibir los servicios de salud.
 
 Contacto 
 
