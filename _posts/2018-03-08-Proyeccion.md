@@ -15,11 +15,11 @@ Para hacer una proyección de pensión necesitas saber el número exacto de sema
 Pide tu reporte de semanas cotizadas [aqui](http://hlda.imss.gob.mx/hlda/Acceso.do#no-back-button)
 
 
-## ¿por qué necesito un Calculo de pensión?
+## ¿Por qué necesito un Calculo de pensión?
 
 Muchas personas se pensionan con un salario que no es suficiente para cubrir sus necesidades y lamentablemente una vez que te has pensionado yo no puedes cambiar el monto de tu pensión y tendrás que vivir el resto de tu vida con ese ingreso.   
 
 
 Nosotros podemos hacer una proyección de pension de acuerdo a tus necesidades y tus recursos. Pregunta como y con gusto desarrollaremos una proyeccion hecha a tu medida. 
 
-Si quieres conseguir una pensi162ón digna y y sustentable [Contactonos aquí](https://pensionesmexico.github.io/2018/03/08/contacto.html)
+Si quieres conseguir una pensión digna y y sustentable [Contactonos aquí](https://pensionesmexico.github.io/2018/03/08/contacto.html)
