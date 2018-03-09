@@ -1,8 +1,6 @@
 ---
-title: Proyección
+title: Proyección de Pensión
 ---
-
-## Proyección de Pensión
 
 Exite el mito de que las pensiones en México son muy bajas, lo cierto  es que hay gente que recibe **$2,650.00** y hay otras que reciben hasta **$60,000.00** 
 
