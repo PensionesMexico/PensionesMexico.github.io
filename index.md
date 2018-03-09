@@ -1,4 +1,4 @@
-## Bienvenido a Pensiones México
+## ¿Quienes somos?
 
 Somos una Organización para Trabajadores Independientes. El objetivo es dar a conocer entre sus miembros la actividad que cada uno de ellos desempeña en la actualidad.
 
@@ -17,24 +17,7 @@ Al mismo tiempo que se incorpora con nosotros, lo que obtendrás será tu Incorp
 
 - En caso de que cuentes con un crédito Infonavit, favor de enviar su estado de cuenta y convenio para determinar el monto a pagar.
 
-El pago es desde un salario mínimo hasta 25 salarios, y se tomará en cuenta la edad, en especial aquellas personas que cuenten con más de 65 años en adelante, de la siguiente manera: 
-
-•	Con edad de 18 a 58 años, 1 salario mínimo = $1400 + $1400 de inscripción
-
-•	Con edad de 59 a 64 años, 2 salarios mínimos = $1850 + $1850 de inscripción
-
-•	Con edad de 65 años en adelante, 4 salarios mínimos y se analizará cada caso.
-
-•	El pago de inscripción se hace una sola vez.
-
-
-Contacto 
-
-5537499689 WhatsApp
-
-Norma Jiménez Kaiser
-
-normajkaiser@gmail.com
+El pago es desde un salario mínimo hasta 25 salarios, y podemos inscribir a personas de todas la edades. 
 
 
 ¿Olvidaste tu Número de IMSS? Consíguelo aquí: www.imss.gob.mx/faq/no-recuerdo-mi-nss
