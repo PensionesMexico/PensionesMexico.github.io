@@ -1,5 +1,5 @@
 ---
-Proyección
+title: Proyección
 ---
 
 ## Proyección de Pensión
