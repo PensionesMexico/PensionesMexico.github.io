@@ -6,7 +6,7 @@ Somos una Organización para Trabajadores Independientes. El objetivo es dar a c
 
 Al mismo tiempo que se incorpora con nosotros, lo que obtendrás será tu Incorporación al IMSS, AFORE e INFONAVIT, pagando una cuota mensual. 
 
-https://www.youtube.com/watch?v=4ZIi_7dGHtQ
+(https://www.youtube.com/watch?v=4ZIi_7dGHtQ)
 
 ## Documentos para la incorporación, todos en copia.
 
