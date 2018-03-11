@@ -4,7 +4,7 @@ title: ¿Quiénes somos?
 
 Somos una Organización para Trabajadores Independientes. El objetivo es dar a conocer entre sus miembros la actividad que cada uno de ellos desempeña en la actualidad.
 
-Al mismo tiempo que se incorpora con nosotros, lo que obtendrás será tu Incorporación al IMSS, AFORE e INFONAVIT, pagando una cuota mensual. [Contacto](2018-03-08-contacto.md)
+Al mismo tiempo que se incorpora con nosotros, lo que obtendrás será tu Incorporación al IMSS, AFORE e INFONAVIT, pagando una cuota mensual. [Contacto](2018/03/contacto.html)
 
 [Video sobre diferencias entre Ley 73 y Ley 97](https://www.youtube.com/watch?v=4ZIi_7dGHtQ)
 
@@ -25,10 +25,10 @@ El pago es desde un salario mínimo hasta 25 salarios, y podemos inscribir a per
 
 ## Enlaces importantes 
 
-¿Olvidaste tu Número de IMSS? Consíguelo aquí: www.imss.gob.mx/faq/no-recuerdo-mi-nss
+¿Olvidaste tu Número de IMSS? Consíguelo aquí: [www.imss.gob.mx/faq/no-recuerdo-mi-nss](www.imss.gob.mx/faq/no-recuerdo-mi-nss)
 
-Reporte de Semanas Cotizadas: http://hlda.imss.gob.mx/hlda/Acceso.do#no-back-button
+Reporte de Semanas Cotizadas: [http://hlda.imss.gob.mx/hlda/Acceso.do#no-back-button](http://hlda.imss.gob.mx/hlda/Acceso.do#no-back-button)
 
-RFC con Homoclave: consúltalo aquí : https://www.mi-rfc.com.mx/consulta-rfc-homoclave
+RFC con Homoclave: consúltalo aquí : [https://www.mi-rfc.com.mx/consulta-rfc-homoclave](https://www.mi-rfc.com.mx/consulta-rfc-homoclave)
 
-CURP: Consíguelo aquí https://consultas.curp.gob.mx/CurpSP/inicio2_2.jsp
+CURP: Consíguelo aquí [https://consultas.curp.gob.mx/CurpSP/inicio2_2.jsp](https://consultas.curp.gob.mx/CurpSP/inicio2_2.jsp)
