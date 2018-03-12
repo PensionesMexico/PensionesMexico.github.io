@@ -22,13 +22,3 @@ Al mismo tiempo que se incorpora con nosotros, lo que obtendrás será tu Incorp
 - En caso de que cuentes con un crédito Infonavit, favor de enviar su estado de cuenta y convenio para determinar el monto a pagar.
 
 El pago es desde un salario mínimo hasta 25 salarios, y podemos inscribir a personas de todas la edades. 
-
-## Enlaces importantes 
-
-¿Olvidaste tu Número de IMSS? Consíguelo aquí: [www.imss.gob.mx/faq/no-recuerdo-mi-nss](www.imss.gob.mx/faq/no-recuerdo-mi-nss)
-
-Reporte de Semanas Cotizadas: [http://hlda.imss.gob.mx/hlda/Acceso.do#no-back-button](http://hlda.imss.gob.mx/hlda/Acceso.do#no-back-button)
-
-RFC con Homoclave: consúltalo aquí : [https://www.mi-rfc.com.mx/consulta-rfc-homoclave](https://www.mi-rfc.com.mx/consulta-rfc-homoclave)
-
-CURP: Consíguelo aquí [https://consultas.curp.gob.mx/CurpSP/inicio2_2.jsp](https://consultas.curp.gob.mx/CurpSP/inicio2_2.jsp)
