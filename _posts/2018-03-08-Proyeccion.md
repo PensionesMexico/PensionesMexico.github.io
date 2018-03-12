@@ -10,7 +10,7 @@ La proyección de pensión es una herramienta indispensable para para planear el
 
 Para hacer una proyección de pensión necesitas saber el número exacto de semanas que has cotizado, calcula 52 semanas por cada año que trabajaste cotizando. 
 
-Pide tu reporte de semanas cotizadas [aquí](http://hlda.imss.gob.mx/hlda/Acceso.do#no-back-button)
+Pide tu reporte de semanas cotizadas [aquí](http://hlda.imss.gob.mx/hlda/Acceso.do#no-back-button){:target="_blank"}
 
 
 ## ¿Por qué necesito un Calculo de pensión?
@@ -20,4 +20,4 @@ Muchas personas se pensionan con un salario que no es suficiente para cubrir sus
 
 Nosotros podemos hacer una proyección de pension de acuerdo a tus necesidades y tus recursos. Pregunta cómo y con gusto desarrollaremos una proyección hecha a tu medida. 
 
-Si quieres conseguir una pensión digna y sustentable [Contactanos aquí](2018-03-08-contacto.html)
+Si quieres conseguir una pensión digna y sustentable [Contactanos aquí](2018/03/contacto.html)
