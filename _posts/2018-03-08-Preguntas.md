@@ -16,7 +16,7 @@ Puedes intentar recuperarlo en línea en la siguiente [aquí](http://www.imss.go
 
 ### Deje de cotizar 20 años ¿puedo volver a cotizar con el mismo número? 
 
-Si, el NSS que te asignaron inicialmente es el mismo que debes usar cada vez que te des de alta ante el IMSS no importa cuánto tiempo pase entre una inscripción y otra, evita crear un nuevo número pues eso implicara hacer el largo trámite de consolidación de números en caso de tener duplicidad. Si te faltan semanas nosotros te podemos afiliar al inscribirte con nosotros, [contáctanos](2018-03-08-contacto.html) para recibir más información.
+Si, el NSS que te asignaron inicialmente es el mismo que debes usar cada vez que te des de alta ante el IMSS no importa cuánto tiempo pase entre una inscripción y otra, evita crear un nuevo número pues eso implicara hacer el largo trámite de consolidación de números en caso de tener duplicidad. Si te faltan semanas nosotros te podemos afiliar al inscribirte con nosotros, [contáctanos](/2018-03-08-contacto.html) para recibir más información.
 
 
 ### No recuerdo cuánto tiempo cotice al IMSS
@@ -29,7 +29,7 @@ Si, puedes dar de alta a tus ascendentes (padres), descendientes (hijos) y tu c�
 
 ### Soy ley 73, ya tengo las 500 semanas ¿Si me espero a los 55 y me doy de alta en modalidad 40 con el topado 5 años me puedo tener una pensión de 25 salarios mínimos?
 
-No, revisa la sesión de [calculo de pensión.](2018-03-08-Calculo.html) La pensión se calculará de acuerdo con número de semanas cotizadas, (entre más, mejor), el salario promedio de los últimos 5 años, y tu edad si te pensionas a los 60 te darán el 75% de lo que te toca.
+No, revisa la sesión de [calculo de pensión.](/2018-03-08-Calculo.html) La pensión se calculará de acuerdo con número de semanas cotizadas, (entre más, mejor), el salario promedio de los últimos 5 años, y tu edad si te pensionas a los 60 te darán el 75% de lo que te toca.
 
 ### ¿Puedo conseguir una buena pensión si me pensiono a los 60? ¿Me dan lo mismo a los 60 que a los 65?
 
@@ -54,7 +54,7 @@ Si, tu hijo u otra persona podrá hacer tus tramites de pensión siempre y cuand
 
 ### ¿Si soy trabajador por mi cuenta y sigo pagando mi seguro en modalidad 40 me puedo pensionar por el IMSS?
 
-Si se está trabajando por su cuenta o por el régimen de asimilación a salarios previsto en la Ley del Impuesto sobre la Renta y se cumplen los requisitos de 1) no tener más de 5 años de haber estado en una relación formal de trabajo y 2) aportar un salario igual o mayor al último registrado en la última relación formal de trabajo; Si es posible se pensione por el IMSS con una cuantiosa pensión. Revisa nuestra sección de [Modalidad 40](2018-03-08-Modalidad40.html).
+Si se está trabajando por su cuenta o por el régimen de asimilación a salarios previsto en la Ley del Impuesto sobre la Renta y se cumplen los requisitos de 1) no tener más de 5 años de haber estado en una relación formal de trabajo y 2) aportar un salario igual o mayor al último registrado en la última relación formal de trabajo; Si es posible se pensione por el IMSS con una cuantiosa pensión. Revisa nuestra sección de [Modalidad 40](/2018-03-08-Modalidad40.html).
 
 ### ¿Puedo seguir cotizando para el IMSS e INFONAVIT de manera simultánea?
 
@@ -62,11 +62,11 @@ Las aportaciones a la modalidad 40 del IMSS no hacen las aportaciones al INFONAV
 
 ### ¿Cómo puedo pensionarme si perdí mi conservación de derechos?
 
-Necesariamente se tendrá que cotizar un año más, a través de una relación de trabajo para regenerarla. [Contáctame,](2018-03-08-contacto.md) nosotros te podemos dar de alta. 
+Necesariamente se tendrá que cotizar un año más, a través de una relación de trabajo para regenerarla. [Contáctame,](/2018-03-08-contacto.md) nosotros te podemos dar de alta. 
 
 ### ¿Si aporto 25 salarios mínimos al mes durante 5 años cuanto obtendré de pensión IMSS?
 
-Existe la posibilidad de acuerdo a la Ley del Seguro Social vigente que las personas obtengan una pensión mensual de $60,000, por lo que será necesario que sean asesoradas financieramente para poder llegar a esa meta o simplemente si quieren obtener una cuantiosa pensión menor a la aquí descrita. [Preguntáme cómo.](2018-03-08-contacto.html)
+Existe la posibilidad de acuerdo a la Ley del Seguro Social vigente que las personas obtengan una pensión mensual de $60,000, por lo que será necesario que sean asesoradas financieramente para poder llegar a esa meta o simplemente si quieren obtener una cuantiosa pensión menor a la aquí descrita. [Preguntáme cómo.](/2018-03-08-contacto.html)
 
 ### ¿Se puede pagar cuotas IMSS y no pagar INFONAVIT?
 
