@@ -2,9 +2,9 @@
 title: ¿Quiénes somos?
 ---
 
-Somos una Organización para Trabajadores Independientes. El objetivo es dar a conocer entre sus miembros la actividad que cada uno de ellos desempeña en la actualidad.
+Cuando te inscribes con nosotros obtienes tu Incorporación al IMSS, AFORE e INFONAVIT, pagando una cuota mensual. Somos una Organización para Trabajadores Independientes. El objetivo es dar a conocer entre sus miembros la actividad que cada uno de ellos desempeña en la actualidad [Contacto](2018/03/contacto.html).
 
-Al mismo tiempo que se incorpora con nosotros, lo que obtendrás será tu Incorporación al IMSS, AFORE e INFONAVIT, pagando una cuota mensual. [Contacto](2018/03/contacto.html)
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ijkAO70GNP0?rel=0&amp;showinfo=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 ## Documentos para la incorporación, todos en copia.
