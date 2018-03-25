@@ -2,7 +2,7 @@
 title: ¿Quiénes somos?
 ---
 !Pensionate, obten servicio médico o un crédito Infonavit! No importa en donde vivas o a que te dediques.
-Disclusure:
+
 Somos una Organización sin fines de lucro  para Trabajadores Independientes que tiene el objetivo es dar a conocer entre sus miembros la actividad que cada uno de ellos desempeña en la actualidad.
 
 Al mismo tiempo que te incorporas con nosotros obtendrás asesoria gratuita y nuestra obligación es incorporarte al IMSS, AFORE e INFONAVIT, pagando una cuota mensual para pertencer a nuestra coorporación. [Contacto](2018/03/contacto.html).
