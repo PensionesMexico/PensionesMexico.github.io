@@ -24,9 +24,9 @@ Si quieres conseguir una pensión digna y sustentable. [Contacto](/2018/03/conta
 
 
 ### ¿Qué se calcula en una proyección de pensión en la ley 73?
-       1.	La edad a la que te pensionas, si es por Cesantía o Vejez, es decir si recibirás un 100% por pensionarte a los 65 años o te descontarán 5% por cuantos años.
-      2.	Salario promedio de los últimos 5 años, es decir, que calculamos los salarios en la cantidad en pesos en qué cotizaste, cada semana, no es lo mismo un salario mínimo de 1990 que uno de 2000 o 2018. Existe una devaluación en comparación con el salario actual que modifica significativamente tu pensión. 
-      3.	El más importante y en el que la gente se confunde más. El número de semanas que cotizaste. El seguro social te pide mínimo 500 semanas cotizadas para poderte pensionar, pero la palabra “mínimo” es clave, puesto que es solo el requisito para calificar, pero no significa que recibirás una buena pensión, pues de acuerdo a la ley del 73 por cada 52 semanas extra que cotices, recibirás un incremento salarial y es ahí en donde está la diferencia entre una pensión mínima y una pensión cuantiosa. Entre más semanas cotices, mayor será tu pensión. 
+1. La edad a la que te pensionas, si es por Cesantía o Vejez, es decir si recibirás un 100% por pensionarte a los 65 años o te descontarán 5% por cuantos años.
+2. Salario promedio de los últimos 5 años, es decir, que calculamos los salarios en la cantidad en pesos en qué cotizaste, cada semana, no es lo mismo un salario mínimo de 1990 que uno de 2000 o 2018. Existe una devaluación en comparación con el salario actual que modifica significativamente tu pensión. 
+3. El más importante y en el que la gente se confunde más. El número de semanas que cotizaste. El seguro social te pide mínimo 500 semanas cotizadas para poderte pensionar, pero la palabra “mínimo” es clave, puesto que es solo el requisito para calificar, pero no significa que recibirás una buena pensión, pues de acuerdo a la ley del 73 por cada 52 semanas extra que cotices, recibirás un incremento salarial y es ahí en donde está la diferencia entre una pensión mínima y una pensión cuantiosa. Entre más semanas cotices, mayor será tu pensión. 
 
 Ejemplo:
 
