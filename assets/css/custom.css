@@ -11,6 +11,10 @@
     font-weight: normal;
     font-style: normal;
 }
+h1, h2, h3, h4, h5, h6 {
+    font-size: 110%;
+    font-weight: bold;
+}
 
 td, th {
     padding: 6px 13px;
