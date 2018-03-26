@@ -30,4 +30,8 @@ Si quieres conseguir una pensión digna y sustentable. [Contacto](/2018/03/conta
 
 Ejemplo:
 
-Una persona que se pensiona a los 65 años, con 25 salarios mínimos (salario topado) y con 500 semanas cotizadas recibirá una pensión por debajo de $9,000 mientras que una persona con 2000 semanas o más recibirá una pensión por arriba de $50,000.00 Contáctanos para hacer un calculo específico para tu caso. 
+Una persona que se pensiona a los 65 años, con 25 salarios mínimos (salario topado) y con 500 semanas cotizadas recibirá una pensión por debajo de $9,000 mientras que una persona con 2000 semanas o más recibirá una pensión por arriba de $50,000.00 
+
+Por eso es indispensable seguir cotizando lo más que puedas. 
+
+Contáctanos para hacer un calculo específico para tu caso. 
