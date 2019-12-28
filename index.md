@@ -8,7 +8,7 @@ title: ¿Quiénes somos?
 
 ## ¿Nunca has cotizado con nadie? 
 
-!Aún estás a tiempo! No importa en donde vivas o a que te dediques empieza a cotizar ahora [entrando aquí]  (https://pensionesmexico.github.io/2019/12/RecuperarVigencia.html).
+!Aún estás a tiempo! No importa en donde vivas o a que te dediques empieza a cotizar ahora [entrando aquí](https://pensionesmexico.github.io/2019/12/RecuperarVigencia.html).
 
 ## ¿Cotizaste y no recuerdas tu número de seguro social? 
 
