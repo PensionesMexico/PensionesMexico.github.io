@@ -12,7 +12,7 @@ title: ¿Quiénes somos?
 
 ## ¿Cotizaste y no recuerdas tu número de seguro social? 
 
-Para recuperar tu número no entres en la página del IMSS, podrías causearte una duplicidad que te costará mucho trabajo arreglar posteriormente, para conseguir tu número [Contácta aquí] (https://pensionesmexico.github.io/2018/03/contacto.html).
+Para recuperar tu número no entres en la página del IMSS, podrías causearte una duplicidad que te costará mucho trabajo arreglar posteriormente, para conseguir tu número [contácta aquí](https://pensionesmexico.github.io/2018/03/contacto.html).
 
 ## ¿Eres Ley 73 y te gutaría calcular tu pensión, conocer más sobre modalidad 40 o planear que hacer para pensionarte mejor? 
 Entendamos cómo se calcula la pensión [aquí] (https://pensionesmexico.github.io/2018/03/Calculo.html).
