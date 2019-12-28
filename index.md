@@ -3,12 +3,12 @@ title: ¿Quiénes somos?
 ---
 !Pensionate, obten servicio médico o un crédito Infonavit! No importa en donde vivas o a que te dediques.
 
-Somos una Organización sin fines de lucro  para Trabajadores Independientes que tiene el objetivo es dar a conocer entre sus miembros la actividad que cada uno de ellos desempeña en la actualidad.
-
-Al mismo tiempo que te incorporas con nosotros obtendrás asesoria gratuita y nuestra obligación es incorporarte al IMSS, AFORE e INFONAVIT, pagando una cuota mensual para pertencer a nuestra coorporación. [Contacto](2018/03/contacto.html).
-
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ijkAO70GNP0?rel=0&amp;showinfo=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+Si no haz cotizado en los últimos 5 años, necesitas cotizar bajo el régimen obligatorio, para recuperar derechos, mínimo 18 meses bajo un patrón o una cooperativa, a pesar de que la ley del IMSS dice que al menos necesita 52 semanas, lo mejor es hacerlo por 18 meses, para evitar problemas con el IMSS. 
+
+Como una alternativa eficaz y segura, se puede inscribir con una Organización sin Fines de Lucro para Trabajadores Independientes, la que tiene el objetivo de dar a conocer entre sus miembros la actividad que cada uno de ellos desempeña en la actualidad, además de otorgar asesoría gratuita en materia de seguridad social. Ellos no se dedican a dar de alta personas en el IMSS, eso sería simulación laboral, sin embargo, al inscribirte con ellos para promover tus servicios, ellos tienen la obligación de darte de alta en el régimen obligatorio: IMSS, Infonavit y Afore, por lo mismo, es un requisito indispensable declarar un oficio o profesión a la que te dediques, para poder inscribirte.[Contacto](2018/03/contacto.html).
 
 ## Documentos para la incorporación, todos en copia.
 
@@ -24,3 +24,5 @@ Al mismo tiempo que te incorporas con nosotros obtendrás asesoria gratuita y nu
 - En caso de que cuentes con un crédito Infonavit, favor de enviar su estado de cuenta y convenio para determinar el monto a pagar.
 
 El pago es desde un salario mínimo hasta 25 salarios, y podemos inscribir a personas de todas la edades. 
+
+Si desea inscribirte con esta corporación, por favor envíame tu nombre completo y número de seguro social, indícame el día y la hora en que deseas acudir a inscribirte a la oficina. Esto, si prefieres ir a las oficinas que se encuentran, o en la Colonia del Valle, CDMX, o en Naucalpan, EDOMEX, con un horario de servicio de 10 am a 5 pm de lunes a viernes. Si no vives en la Ciudad de México, avísame para enviarte el formato de inscripción y ayudarte a inscribirte en línea. [Contacto](2018/03/contacto.html).
