@@ -8,9 +8,11 @@ title: ¿Quiénes somos?
 
 # ¿Nunca has cotizado con nadie? 
 
-!Aún estás a tiempo! No importa en donde vivas o a que te dediques empieza a cotizar ahora.
+!Aún estás a tiempo! No importa en donde vivas o a que te dediques empieza a cotizar ahora [entrando aquí] (https://pensionesmexico.github.io/2019/12/RecuperarVigencia.html).
 
 # ¿Cotizaste y no recuerdas tu número de seguro social? 
+
+Para recuperar tu número no entres en la página del IMSS, podrías causearte una duplicidad que te costará mucho trabajo arreglar posteriormente, para conseguir tu número [Contácta aquí](https://pensionesmexico.github.io/2018/03/contacto.html).
 
 # ¿Eres Ley 73 y te gutaría calcular tu pensión, conocer más sobre modalidad 40 o planear que hacer para pensionarte mejor? 
 
