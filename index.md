@@ -4,7 +4,7 @@ title: ¿Quiénes somos?
 
 # ¿No has cotizado el IMSS en los útimos 5 años y perdiste vigencia de derechos? 
 
-!Pensionate, obten servicio médico o un crédito Infonavit! No importa en donde vivas o a que te dediques. [entre aquí](2018/03/08/Calculo.md).
+!Pensionate, obten servicio médico o un crédito Infonavit! No importa en donde vivas o a que te dediques. [entra aquí](https://pensionesmexico.github.io/2019/12/RecuperarVigencia.html).
 
 # ¿Nunca has cotizado con nadie? 
 
