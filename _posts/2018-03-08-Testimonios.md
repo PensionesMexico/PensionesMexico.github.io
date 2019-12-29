@@ -2,17 +2,13 @@
 title: Testimonios
 ---
 
-## Mi testimonio como promotora
-
+## Algunos testimonios reales de personas que nos han contactado
+[Contacto](2018/03/contacto.html).
 
 
 Yo empecé en esto buscando ayuda para pensionar a mi papá quien se fue a Estados Unidos buscando el sueño americano y encontró la pesadilla de una vejez sin pensión en ambos lados de la frontera pues dejó de cotizar en México y no tiene estatus en USA. 
 Ahora comparto esta oportunidad con las personas que perdieron la esperanza de pensionarse porque nadie los quiere contratar con beneficios o porque no saben a quién dirigirse para pedir ayuda. 
-Espero poder ayudar a más personas a recuperar su vigencia de derecho y lograr no sólo una pensión sino la pensión más alta posible. ¡Una pensión digna! [Contacto](2018/03/contacto.html).
-.
-
-
-## Algunos testimonios reales de personas que nos han contactado
+Gracias a Pensiones México mi papá ya recuperó vigencia, ya está cotizando a Modalidad 40 y a sus 76 años está tramitando su pensión con mi ayuda desde Estados Unidos y podrá recibir ese dinero cada mes, que además será la pensión de mi mamá si ella le sobrevive. !Gracias Pensiones México! 
 .
 
 
