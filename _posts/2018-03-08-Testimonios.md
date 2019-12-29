@@ -12,7 +12,7 @@ Gracias a Pensiones México mi papá ya recuperó vigencia, ya está cotizando a
 
 ...............................................
 
-Lo recomiendo al 100% el taller es muy completo y te apoya con todas las dudas y con ello puedes comenzar a planear tu retiro a partir de que situación te encuentras y que tienes que hacer. Saludos﻿
+![Comentario en YouTube][assets/images/comentario1.JPG]
 
 .................................................
 
