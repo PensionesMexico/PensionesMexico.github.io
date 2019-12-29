@@ -69,7 +69,7 @@ Las aportaciones a la modalidad 40 del IMSS no hacen las aportaciones al INFONAV
 
 ### ¿Cómo puedo pensionarme si perdí mi conservación de derechos?
 
-Necesariamente se tendrá que cotizar un año más, a través de una relación de trabajo para regenerarla. [Contáctame,](/2018-03-08-contacto.md) nosotros te podemos dar de alta. 
+Necesariamente se tendrá que cotizar un año más, a través de una relación de trabajo para regenerarla. [Contáctame,](/2018-03-08-contacto.md) nosotros te podemos dar de alta.  
 
 ### ¿Si aporto 25 salarios mínimos al mes durante 5 años cuanto obtendré de pensión IMSS?
 
