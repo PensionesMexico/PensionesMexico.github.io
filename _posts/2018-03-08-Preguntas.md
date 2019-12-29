@@ -5,13 +5,16 @@ title: Preguntas
 ## Preguntas frecuentes
 
 ### No recuerdo mi número de seguro social (NSS) ¿cómo lo recupero?
+.
 
-Puedes intentar recuperarlo en línea en la siguiente [aquí](http://www.imss.gob.mx/faq/no-recuerdo-mi-nss) si no aparece, tendrás que acudir a la Subdelegación del IMSS más cercana con los siguientes documentos:
+Puedes intentar recuperarlo en línea, pero ten cuidado, porque podrías crearte una duplicidad que te causará muchos problemas en el futuro, en la siguiente [aquí](http://www.imss.gob.mx/faq/no-recuerdo-mi-nss) si no aparece, tendrás que acudir a la Subdelegación del IMSS más cercana con los siguientes documentos:
 
 1.	Copia certificada del Acta de Nacimiento para su cotejo.* Original.
 2.	Identificación oficial vigente. Original.
 3.	Clave Única de Registro de Población (CURP). Copia.
 4.	Poder Notarial** Original. Si el trámite es hecho por un representante legal. 
+
+Si en la subdelegación no quieren dártelo, Pensiones México te puede ayudar a conseguirlo. [Contacto](2018/03/contacto.html)
 
 
 ### Deje de cotizar 20 años ¿puedo volver a cotizar con el mismo número? 
@@ -21,7 +24,7 @@ Si, el NSS que te asignaron inicialmente es el mismo que debes usar cada vez que
 
 ### No recuerdo cuánto tiempo cotice al IMSS
 
-Puedes y se recomienda fuertemente obtener un Reporte de Semanas Cotizadas, lo puedes pedir en línea [aquí] (http://hlda.imss.gob.mx/hlda/Acceso.do#no-back-button) pero si no aparece porque no estas activo, tendrás que pedirlo en la Subdelegación del IMSS mas cercana, es posible que no lo puedas obtener hasta que te des de alta de nuevo si has estado inactivo por mucho tiempo. Recuerda que nosotros te podemos dar de alta para recuperar tu Vigencia de Derechos.
+Puedes y se recomienda fuertemente obtener un Reporte de Semanas Cotizadas, lo puedes pedir en línea [aquí] (http://www.imss.gob.mx/node/73992) pero si no aparece porque no estas activo, tendrás que pedirlo en la Subdelegación del IMSS mas cercana, es posible que no lo puedas obtener hasta que te des de alta de nuevo si has estado inactivo por mucho tiempo. Recuerda que nosotros te podemos dar de alta para recuperar tu Vigencia de Derechos.
 
 ### ¿Puedo pone a mis padres como beneficiario para servicio médico?
 
@@ -29,7 +32,11 @@ Si, puedes dar de alta a tus ascendentes (padres), descendientes (hijos) y tu c�
 
 ### Soy ley 73, ya tengo las 500 semanas ¿Si me espero a los 55 y me doy de alta en modalidad 40 con el topado 5 años me puedo tener una pensión de 25 salarios mínimos?
 
-No, revisa la sesión de [calculo de pensión.](/2018-03-08-Calculo.html) La pensión se calculará de acuerdo con número de semanas cotizadas, (entre más, mejor), el salario promedio de los últimos 5 años, y tu edad si te pensionas a los 60 te darán el 75% de lo que te toca.
+No, revisa la sesión de [calculo de pensión.](/2018-03-08-Calculo.html) La pensión se calculará de acuerdo con número de semanas cotizadas, (entre más, mejor), el salario promedio de los últimos 5 años, y tu edad si te pensionas a los 60 te darán el 75% de lo que te toca. Recuerda que lo peoe que puedes hacer es no hacer nada. 
+
+Mira este video al respecto
+
+<iframe width="560" height="315" src="https://youtu.be/_6AGtKT4rNw" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 ### ¿Puedo conseguir una buena pensión si me pensiono a los 60? ¿Me dan lo mismo a los 60 que a los 65?
 
