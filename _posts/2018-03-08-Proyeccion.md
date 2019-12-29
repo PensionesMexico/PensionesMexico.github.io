@@ -1,24 +1,29 @@
 ---
-title: Proyección de Pensión
+title: Planeación de Pensión
 ---
 
-Exite el mito de que las pensiones en México son muy bajas, lo cierto  es que hay gente que recibe **$2,650.00** y hay otras que reciben hasta **$60,000.00** 
+Exite el mito de que las pensiones en México son muy bajas, lo cierto  es que hay gente que recibe **$2,650.00** y hay otras que reciben más de **$60,000.00** 
 
-### ¿Como asegurarme de tener la pensión más alta?
+### ¿Cómo asegurarme de tener la pensión más alta?
 
-La proyección de pensión es una herramienta indispensable para para planear el monto de pensión más alto posible. Las personas que no planean de acuerdo a sus necesidades podrían terminar con pensiones muy bajas o insuficientes para cubrir sus necesidades.
+La planeación de pensión es una herramienta indispensable para para planear el monto de pensión más alto posible. Las personas que no planean de acuerdo a sus necesidades podrían terminar con pensiones muy bajas o insuficientes para cubrir sus necesidades.
 
-Para hacer una proyección de pensión necesitas saber el número exacto de semanas que has cotizado, calcula 52 semanas por cada año que trabajaste cotizando. 
+Para hacer una planeación de pensión necesitas saber el número exacto de semanas que has cotizado, calcula 52 semanas por cada año que trabajaste cotizando. 
 
-Pide tu reporte de semanas cotizadas [aquí](http://hlda.imss.gob.mx/hlda/Acceso.do#no-back-button){:target="_blank"}
+Pide tu reporte de semanas cotizadas [aquí](http://www.imss.gob.mx/node/73992){:target="_blank"}
 
+### ¿Por qué la planeación de Pensiones México es la mejor en el mercado?
 
-## ¿Por qué necesito un Calculo de pensión?
+La planeación de pensión no es un simple cálculo de tu pensión, es un estudio de 15-20 páginas, según sea tu caso, que sirve de guía desde hoy y hasta que te pensionas, este estudio te ayuda a saber que hacer para recuperar semanas no reconocidas, y buscar las mejoras estrategias para pensionarte con el máximo posible en tu caso. 
+
+[Contáctanos](/2018/03/contacto.html). para hacer un calculo específico para tu caso. 
+
+## ¿Por qué necesito un Cálculo de pensión?
 
 Muchas personas se pensionan con un salario que no es suficiente para cubrir sus necesidades y lamentablemente una vez que te has pensionado yo no puedes cambiar el monto de tu pensión y tendrás que vivir el resto de tu vida con ese ingreso.   
 
 
-Nosotros podemos hacer una proyección de pension de acuerdo a tus necesidades y tus recursos. Pregunta cómo y con gusto desarrollaremos una proyección hecha a tu medida. 
+Pensiones México puede hacer una planeación de pension de acuerdo a tus necesidades y tus recursos. Pregunta cómo y con gusto desarrollaré una proyección hecha a tu medida. 
 
 Si quieres conseguir una pensión digna y sustentable. [Contacto](/2018/03/contacto.html).
 
@@ -34,4 +39,4 @@ Una persona que se pensiona a los 65 años, con 25 salarios mínimos (salario to
 
 Por eso es indispensable seguir cotizando lo más que puedas. 
 
-[Contáctanos](/2018/03/contacto.html). para hacer un calculo específico para tu caso. 
+
