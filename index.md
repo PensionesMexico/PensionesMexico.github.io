@@ -13,7 +13,7 @@ En esta página encontrarás Asesoría Financiera y en pensiones e información 
 <br />
 
 ## ¿Te gustaría tomar mi Taller Pensión para Todos?
-[Entra aquí](https://forms.gle/Ns3rbhbpUFPXRGFi8) para preinscribirse al taller: 
+[Entra aquí](https://forms.gle/Ns3rbhbpUFPXRGFi8) para preinscribirte al taller: 
  
 ## ¿No has cotizado al IMSS en los últimos 5 años y perdiste Vigencia de Derechos? 
 
