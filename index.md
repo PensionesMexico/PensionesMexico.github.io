@@ -4,9 +4,11 @@ title: ¿Quiénes somos?
 
 #  Bienvenidos a Pensiones México
 
-En esta página encontrarás  e Asesoria Financiera y en pensiones e información relevante dobre pensiones de ley 73 o 97, así cómo herramientas útiles para lograr recuperar tu vigencia de de derechos, talleres, planeación de pensión videos y mucho más. 
+En esta página encontrarás  e Asesoria Financiera y en pensiones e información relevante sobre pensiones de ley 73 o 97, así cómo herramientas útiles para lograr recuperar tu vigencia de de derechos, talleres, planeación de pensión videos y mucho más. 
+
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ijkAO70GNP0?rel=0&amp;showinfo=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
 
 ## ¿No has cotizado el IMSS en los útimos 5 años y perdiste vigencia de derechos? 
 
