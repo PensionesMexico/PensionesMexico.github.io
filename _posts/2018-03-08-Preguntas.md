@@ -34,7 +34,7 @@ Si, puedes dar de alta a tus ascendentes (padres), descendientes (hijos) y tu c�
 
 No, revisa la sesión de [calculo de pensión.](/2018-03-08-Calculo.html) La pensión se calculará de acuerdo con número de semanas cotizadas, (entre más, mejor), el salario promedio de los últimos 5 años, y tu edad si te pensionas a los 60 te darán el 75% de lo que te toca. Recuerda que lo peoe que puedes hacer es no hacer nada. 
 
-Mira este video al respecto
+Mira este video al respecto https://youtu.be/_6AGtKT4rNw 
 
 <iframe width="560" height="315" src="https://youtu.be/_6AGtKT4rNw" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
