@@ -2,7 +2,7 @@
 title: ¿Quiénes somos?
 ---
 
-#  Bienvenido a Pensiones México
+#  Bienvenidos a Pensiones México
 
 En esta página encontrarás Asesoría Financiera y en pensiones e información relevante sobre pensiones de Ley 73 o Ley 97, así como herramientas útiles para lograr recuperar tu Vigencia de Derechos, talleres, planeación de pensión, videos y mucho más. 
 
