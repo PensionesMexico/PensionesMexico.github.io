@@ -16,7 +16,7 @@ Gracias a Pensiones México mi papá ya recuperó vigencia, ya está cotizando a
 
 .................................................
 
-![Comentario en YouTube](../assets/images/comentario1.JPG)
+![Comentario en YouTube]({{ site.url }}/assets/images/comentario1.JPG)
 
 .................................................
 
