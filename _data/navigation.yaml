@@ -4,6 +4,9 @@
 - title: Calculo
   url: Calculo.html
   
+  - title: Proyección de pensión
+  url: Proyeccion.html
+  
 - title: Taller Pensión para Todos
   url: FormularioDeTaller.html
 
@@ -13,9 +16,6 @@
 - title: Modalidad 40
   url: Modalidad40.html
 
-- title: Proyección de pensión
-  url: Proyeccion.html
-  
 - title: Desde el extranjero
   url: Extranjero.html
    
