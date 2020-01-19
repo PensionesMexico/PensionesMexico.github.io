@@ -16,7 +16,9 @@ En esta página encontrarás Asesoría Financiera y en pensiones e información 
 
 -Taller presencial en la CDMX de de 9 am a 3 pm en 2 diferentes fechas a escoger: 
    - domingo 9 de febrero
+   
    -o sábado 15 de febrero. 
+   
 -Taller en línea que inicia el 1º de febrero. 
  
 ## ¿No has cotizado al IMSS en los últimos 5 años y perdiste Vigencia de Derechos? 
