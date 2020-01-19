@@ -32,11 +32,11 @@ En esta página encontrarás Asesoría Financiera y en pensiones e información 
 ¡Aún estás a tiempo! No importa dónde vivas o a que te dediques. Empieza a cotizar ahora [entrando aquí](https://pensionesmexico.github.io/2019/12/RecuperarVigencia.html).
 .
 
+## ¿Eres Ley 73 y te gustaría calcular tu pensión, conocer más sobre Modalidad 40, o planear qué hacer para pensionarte mejor? 
+La planeación de pensión tiene un costo de $3,000 Entendamos cómo se calcula la pensión [aquí](https://pensionesmexico.org/2018/03/Proyeccion.html).
+.
+
 ## ¿Cotizaste y no recuerdas tu número de Seguro Social? 
 
 Para recuperar tu número no entres en la página digital del IMSS, podrías causarte una duplicidad que te costará mucho trabajo arreglar posteriormente. Para conseguir tu número [contacta aquí](https://pensionesmexico.github.io/2018/03/contacto.html).
-.
-
-## ¿Eres Ley 73 y te gustaría calcular tu pensión, conocer más sobre Modalidad 40, o planear qué hacer para pensionarte mejor? 
-La planeación de pensión tiene un costo de $3,000 Entendamos cómo se calcula la pensión [aquí](https://pensionesmexico.org/2018/03/Proyeccion.html).
  
