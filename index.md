@@ -18,7 +18,8 @@ En esta página encontrarás Asesoría Financiera y en pensiones e información 
 Instrucciones: Para el curso en línea: Ud. recibirá un instructivo de cómo acceder al curso, ya sea en línea o presencial, y sólo personas con un correo acreditado podrán tener acceso 15 minutos antes de iniciar.
 .
 
-### - Taller Presencial (Se pedirá identificación oficial para ingresar al taller y sólo las personas en la lista serán admitidas).
+### - Taller Presencial 
+(Se pedirá identificación oficial para ingresar al taller y sólo las personas en la lista serán admitidas).
 
 -CDMX Sábado 9 de Mayo de 2020,  de 9:00 am a 3: 00 pm. Cierre de inscripciones: 7 de mayo.
 -CDMX Sábado 18 de julio de 2020,  de 9:00 am a 3: 00 pm. Cierre de inscripciones: 15 de julio.
