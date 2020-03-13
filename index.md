@@ -12,7 +12,7 @@ En esta página encontrarás Asesoría Financiera y en pensiones e información 
 
 <br />
 
-## ¿Te gustaría tomar mi Taller Pensión para Todos? [Entra aquí](https://forms.gle/yQB4K18AvVg7yVHH8) 
+## ¿Te gustaría tomar mi Taller Pensión para Todos? Costo $900 pesos [Entra aquí](https://forms.gle/yQB4K18AvVg7yVHH8) 
 
 - Taller en Línea.
 Instrucciones: Para el curso en línea: Ud. recibirá un instructivo de cómo acceder al curso, ya sea en línea o presencial, y sólo personas con un correo acreditado podrán tener acceso 15 minutos antes de iniciar.
@@ -23,7 +23,7 @@ Instrucciones: Para el curso en línea: Ud. recibirá un instructivo de cómo ac
 -CDMX Sábado 18 de julio de 2020,  de 9:00 am a 3: 00 pm. Cierre de inscripciones: 15 de julio.
 Lugar: Instalación cercana al Museo Soumaya (Col. Polanco, CDMX).
 
--Toluca (Cupo limitado) Sábado 25 de julio de 2020,  de 9:00 am a 3: 00 pm. Cierre de inscripciones: 21 de julio. Lugar: Pizzería La Toscana Av. Miguel Hidalgo 807 Col. Providencia enfrente al Instituto Cenca plantel preparatoria, Entrada sera permitida sólo con insceripción previa y confirmación.
+-Toluca (Cupo limitado) Sábado 25 de julio de 2020,  de 9:00 am a 3: 00 pm. Cierre de inscripciones: 21 de julio. Lugar: Pizzería La Toscana Av. Miguel Hidalgo 807 Col. Providencia enfrente al Instituto Cenca plantel preparatoria, Entrada sera permitida sólo con inscripción previa y confirmación.
  
 ## ¿No has cotizado al IMSS en los últimos 5 años y perdiste Vigencia de Derechos? 
 
