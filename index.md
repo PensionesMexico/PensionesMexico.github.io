@@ -16,6 +16,7 @@ En esta página encontrarás Asesoría Financiera y en pensiones e información 
 
 - Taller en Línea.
 Instrucciones: Para el curso en línea: Ud. recibirá un instructivo de cómo acceder al curso, ya sea en línea o presencial, y sólo personas con un correo acreditado podrán tener acceso 15 minutos antes de iniciar.
+.
 
 - Presencial (Se pedirá identificación oficial para ingresar al taller y sólo las personas en la lista serán admitidas).
 
