@@ -12,15 +12,7 @@ En esta página encontrarás Asesoría Financiera y en pensiones e información 
 
 <br />
 
-## ¿Te gustaría tomar mi Taller Pensión para Todos? Costo $900 pesos [Entra aquí](https://forms.gle/yQB4K18AvVg7yVHH8) 
-
-### - Taller en Línea.
-Taller en Línea que se impartirá cada tercer sábado, desde abril a junio de 2020, con horario de 10 am a 3 pm, pues se divide en dos sesiones.  
-Cada taller se divide en dos sesiones sabatinas incluidas que serán de 10-1 pm (horario de CDMX)
-Fechas:
-1. Abril 18-25
-2. Mayo 16-23
-3. Junio 20-27
+## ¿Te gustaría tomar mi curso gratuito Pensión para Todos? Por favor inscríbase [Entra aquí](https://forms.gle/VNifraddvyMiSUzS7) 
 
 .
 
@@ -38,7 +30,7 @@ Por consideración a la vulnerabilidad de la población que atendería, están c
 .
 
 ## ¿Eres Ley 73 y te gustaría calcular tu pensión, conocer más sobre Modalidad 40, o planear qué hacer para pensionarte mejor? 
-La planeación de pensión tiene un costo de $3,000 Entendamos cómo se calcula la pensión [aquí](https://pensionesmexico.org/2018/03/Proyeccion.html).
+La planeación de pensión tiene un costo de $3,500 Entendamos cómo se calcula la pensión [aquí](https://pensionesmexico.org/2018/03/Proyeccion.html).
 .
 
 ## ¿Cotizaste y no recuerdas tu número de Seguro Social? 
