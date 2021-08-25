@@ -13,7 +13,8 @@ En esta página encontrarás Asesoría Financiera y en pensiones e información 
 <br />
 
 ## ¿Te gustaría tomar mi curso Pensión para Todos? 
-Por favor inscríbase en el curso al que le interesa asistir: 
+Por favor inscríbase en el curso al que le interesa asistir:
+
 [Cabo San Lucas el 2 octubre de 2021](https://forms.gle/6PYeKEskFSh1uBiP8) 
 
 [CDMX el 3 octubre de 2021](https://forms.gle/6PYeKEskFSh1uBiP8) 
