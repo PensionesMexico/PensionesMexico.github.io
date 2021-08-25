@@ -13,5 +13,5 @@ Otros erróneamente piensan que las pensiones en México son muy bajas y que si 
 
 ## ¿Puede un trabajador inmigrante recuperar sus derechos?
 
-Sí: todos los mexicanos que trabajamos para el IMSS en algún momento de nuestra vida podemos recuperar nuestros derechos, y tenemos la posibilidad de una pensión siempre y cuando cumplamos con el número de semanas cotizadas que nos pide el IMSS, y podemos seguir cotizando y recuperar nuestras semanas. [Escríbenos y resolveremos ampliamente tus dudas.](/2018-03-08-contacto.html)
+Sí: todos los mexicanos que trabajamos para el IMSS en algún momento de nuestra vida podemos recuperar nuestros derechos, y tenemos la posibilidad de una pensión siempre y cuando cumplamos con el número de semanas cotizadas que nos pide el IMSS, y podemos seguir cotizando y recuperar nuestras semanas. [Escríbenos y resolveremos ampliamente tus dudas.](https://pensionesmexico.github.io/2018/03/contacto.html).
 
