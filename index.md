@@ -12,12 +12,12 @@ En esta página encontrarás Asesoría Financiera y en pensiones e información 
 
 <br />
 
-## ¿Te gustaría tomar mi curso gratuito Pensión para Todos? Por favor inscríbase [Entra aquí](https://forms.gle/VNifraddvyMiSUzS7) 
+## ¿Te gustaría tomar mi curso Pensión para Todos? 
+Por favor inscríbase en el curso al que le interesa asistir: 
+[Cabo San Lucas el 2 octubre de 2021](https://forms.gle/6PYeKEskFSh1uBiP8) 
 
-.
+[CDMX el 3 octubre de 2021](https://forms.gle/6PYeKEskFSh1uBiP8) 
 
-### - Taller Presencial 
-Por consideración a la vulnerabilidad de la población que atendería, están cancelados hasta nuevo aviso
  
 ## ¿No has cotizado al IMSS en los últimos 5 años y perdiste Vigencia de Derechos? 
 
@@ -30,7 +30,7 @@ Por consideración a la vulnerabilidad de la población que atendería, están c
 .
 
 ## ¿Eres Ley 73 y te gustaría calcular tu pensión, conocer más sobre Modalidad 40, o planear qué hacer para pensionarte mejor? 
-La planeación de pensión tiene un costo de $3,500 Entendamos cómo se calcula la pensión [aquí](https://pensionesmexico.org/2018/03/Proyeccion.html).
+La planeación de pensión tiene un costo de $3,800 Entendamos cómo se calcula la pensión [aquí](https://pensionesmexico.org/2018/03/Proyeccion.html).
 .
 
 ## ¿Cotizaste y no recuerdas tu número de Seguro Social? 
