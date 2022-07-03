@@ -31,7 +31,7 @@ Por favor inscríbase en el curso al que le interesa asistir:
 .
 
 ## ¿Eres Ley 73 y te gustaría calcular tu pensión, conocer más sobre Modalidad 40, o planear qué hacer para pensionarte mejor? 
-La planeación de pensión tiene un costo de $3,800 Entendamos cómo se calcula la pensión [aquí](https://pensionesmexico.org/2018/03/Proyeccion.html).
+La planeación de pensión tiene un costo de $3,800 Entendamos cómo se calcula la pensión [aquí](https://pensionesmexico.github.io/2018/03/Proyeccion.html).
 .
 
 ## ¿Cotizaste y no recuerdas tu número de Seguro Social? 
